@@ -1,13 +1,14 @@
 
 ## Hey :wave:, This is Amir Sabirov
 
----
+
 
 ### About Me:
-I'm a beginning Front-end development. I'm 26. At the moment I work as an engineer. 
+I'm a beginning Front-end development. I'm 26. 
 
 ---
-### Languages and Tools :
+
+### Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -18,7 +19,7 @@ I'm a beginning Front-end development. I'm 26. At the moment I work as an engine
 
 ---
 
-### Some of my GitHub Stats
+### Some of my GitHub Stats:
 
 <img src="https://komarev.com/ghpvc/?username=Sabirov-Amir&style=flat-square&color=blue" alt=""/>   
 
