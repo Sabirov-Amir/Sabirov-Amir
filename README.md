@@ -23,6 +23,4 @@ I'm a beginning Front-end development. I'm 26.
 
 <img src="https://komarev.com/ghpvc/?username=Sabirov-Amir&style=flat-square&color=blue" alt=""/>   
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sabirov-Amir&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabirov-Amir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
