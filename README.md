@@ -26,3 +26,11 @@ Contact with me: superman.as13@gmail.com
 <img src="https://komarev.com/ghpvc/?username=Sabirov-Amir&style=flat-square&color=blue" alt=""/>   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabirov-Amir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### My first pjojects from Figma: 
+1. https://sabirov-amir.github.io/webpage-Konstruct/ - without adaptive*
+2. https://sabirov-amir.github.io/webpage-Alivio/ - without adaptive*
+
+*Adaptive is in the process of studying :stars:
