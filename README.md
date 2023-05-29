@@ -31,7 +31,7 @@ Contact with me: superman.as13@gmail.com
 
 ---
 
-### My first pjojects from Figma: 
+### My first study pjojects from Figma: 
 1. https://sabirov-amir.github.io/webpage-Konstruct/ - without adaptive*
 2. https://sabirov-amir.github.io/webpage-Alivio/ - without adaptive*
 
