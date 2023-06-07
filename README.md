@@ -32,7 +32,6 @@ Contact with me: superman.as13@gmail.com
 ---
 
 ### My first study pjojects from Figma: 
-1. https://sabirov-amir.github.io/webpage-Konstruct/ - without adaptive*
-2. https://sabirov-amir.github.io/webpage-Alivio/ - without adaptive*
+1. https://sabirov-amir.github.io/webpage-Konstruct/ - adaptive is in the process :stars:
+2. https://sabirov-amir.github.io/webpage-Alivio/ - wait adaptive
 
-*Adaptive is in the process of studying :stars:
