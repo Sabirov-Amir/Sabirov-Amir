@@ -33,5 +33,5 @@ Contact with me: superman.as13@gmail.com
 
 ### My first study pjojects from Figma: 
 1. https://sabirov-amir.github.io/webpage-Konstruct/ - with adaptive and spoiler :stars:
-2. https://sabirov-amir.github.io/webpage-Alivio/ - wait adaptive
+2. https://sabirov-amir.github.io/webpage-Alivio/ - is in process of making adaptive(+responsive) markup, and already done menu burger
 
